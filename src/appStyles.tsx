@@ -8,7 +8,7 @@ const StyledDiv = styled.div`
 const StylesHomeContainer = styled.div`
  color: darkorange;
  background: white;
-
+ padding-bottom: 1em;
 
 `;
 

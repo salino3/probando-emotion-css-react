@@ -14,6 +14,15 @@ export const myThemes = css`
  .myh3 {
   color:  ${MyStyles.textos.h3};
  }
+`;
 
+export const ThemeSizeInputs = css`
+ min-height: 2em;
+ padding-left: 0.2em;
+ min-width: 15em;
+
+   &::placeholder {
+   color: ${MyStyles.secundary[2]};
+ }
 `;
 
